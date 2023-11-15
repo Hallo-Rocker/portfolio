@@ -1,0 +1,76 @@
+{
+    "name": "Home",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Sanidhya Shukla",
+    "headerTaglineThree": "curious designer aspiring developer",
+    "headerTaglineFour": " based in Chennai, India.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/Hallo-Rocker"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/sanidhya-shukla-71320816b/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "https://x.com/69_Smokey_69?t=_8q2ARWBrr3ebqMl1fdiOw&s=08"
+        },
+        {
+            "id": "4",
+            "title": "HackerRank",
+            "link": "https://www.hackerrank.com/profile/ss9410"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:sanidhyashukla2004@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Market Prediction system",
+            "description": "An ongoing project using agora from python",
+            "imageSrc": "/images/StockMarket.png",
+            "url": "N/A"
+        }
+    ],
+    "services": [],
+    "aboutpara": "Hello there! I am Sanidhya Shukla. A student of SRM Institute of Science and Technology. I like reading mytho-fiction in my free time and playing Valorant. I aspire to be a data scientist as well as have a good grip at Web Development. I have only recently started working on projects. I hope to not repeat the mistakes I have made in the past and make amends. Follow my socials!",
+    "resume": {
+        "tagline": "👋  I'm an aspiring programmer and developer",
+        "description": "I am currently learning Web Development as well as Data Analytics. Well versed in C, C++, Java, Python and Kotlin(intermediate)",
+        "experiences": [],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
